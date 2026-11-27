@@ -15,7 +15,7 @@ services:
         condition: service_healthy
 
   db:
-    image mariadb:latest
+    image: mariadb:latest
     container_name: wordpress_db
     restart: unless-stopped
     environment:
