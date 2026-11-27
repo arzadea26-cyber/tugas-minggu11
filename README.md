@@ -1,7 +1,7 @@
 # WordPress + MariaDB dengan Docker Compose
 # Tugas Minggu 11: CI untuk Repo Compose
 
-![CI](https://github.com/USERNAME/ci-compose-minggu11/actions/workflows/compose-check.yml/badge.svg)
+[![Compose Check](https://github.com/arzadea26-cyber/tugas-minggu11/actions/workflows/compose-check.yml/badge.svg)](https://github.com/arzadea-cyber/tugas-minggu11/actions/workflows/compose-check.yml)
 
 **Nama:** [Arza Dea Lovita]
 **NIM:** [202557201072]
